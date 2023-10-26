@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1694560799 source:c:\users\45673292\desktop\practisae\main.cpp
+	<iostream>
+
+1696702158 source:\\143.160.81.13\ctx_redirected_data$\45673292\documents\practisae\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1697406838 source:\\client\e$\cmpg122\updated pmp project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1696710102 source:\\client\d$\cmpg122\updated pmp project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+
+1697406838 source:f:\cmpg122\updated pmp project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+

@@ -1,0 +1,34 @@
+Question 1: A group of statements, such as the contents of a control structure, is enclosed in?
+A. Curly braces{}
+B. Parantheses()
+C. Brackets<>
+D. All of the above
+Answer: A
+
+Question 2: Which statement is TRUE?
+A. std::ceil(2.5)produces 2.0
+B. std::ceil(-2.5)produces -2.0
+C. std::ceil(-2.5)produces -3.0
+D. std::ceil(2.4)produces 2.0
+Answer: B
+
+Question 3: Every complete statement ends with a?
+A. period
+B. #symbol
+C. semicolon
+D. ending braces
+Answer: C
+
+Question 4: Which one is correct regarding the precision of floating point from lowest to highest?
+A. float, Long double, double
+B. float, double, long double
+C. double, long double, float
+D. long double, double, float
+Answer: B
+
+Question 5: Decision structures in C++ can be implemented using?
+A. if
+B. Conditional operator
+C. if-else
+D. All of the above
+Answer: D
